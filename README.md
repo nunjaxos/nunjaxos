@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm nunjaxos 👋</h1>
+<h1 align="center">Hi, I'm Hmidat Abderrazzak 👋</h1>
 
 <p align="center">
   42 Network Student • C Programmer • Low-level Enthusiast
